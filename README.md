@@ -24,7 +24,7 @@
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut)](https://github.com/giuliamf/github-readme-stats)
 
 
