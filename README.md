@@ -20,7 +20,9 @@
 <img src= "https://github.com/user-attachments/assets/14566eac-568a-4f92-be42-985f8d40c99c" alt="JavaScript" width="50" height="50">
 <img src= "https://github.com/user-attachments/assets/7b34b64f-df91-42ec-9d23-feb0d61a333d" alt="HTML" width="50" height="50">
 <img src= "https://github.com/user-attachments/assets/c8b9e3ae-53ed-4c43-970b-03f0bda14bdf" alt="CSS" width="50" height="50">
-<img src= "https://github.com/user-attachments/assets/39c01f63-f94b-42af-82b8-87b8b2951050" alt="MySQL" width="50" height="50">
+<img src= "https://github.com/user-attachments/assets/e6870fa2-0a48-48ff-9a68-88227f9a3828" alt="SQL" width="50" height="50">
+
+
 
 ## Stats
 
