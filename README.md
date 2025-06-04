@@ -2,7 +2,7 @@
 
 ## About me
 - 🔍 Studying Computer Science at University of Brasília
-- 💻 Passionate about Software Development and Data Science
+- 💻 Passionate about Data Science and Software Development
 - 🎮 I enjoy gaming 
 - 🌐 Currently working at IBM Brazil
 
