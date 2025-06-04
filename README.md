@@ -4,7 +4,7 @@
 - 🔍 Studying Computer Science at University of Brasília
 - 💻 Passionate about Software Development and Data Science
 - 🎮 I enjoy gaming and stream on Twitch
-- 🏦 Currently working at Central Bank of Brazil
+- 🌐 Currently working at IBM Brazil
 
 ## Social network
 [<img src="https://github.com/user-attachments/assets/8b298ee7-644c-4955-b8f5-47fc55c1727c" alt="Linkedin" width="50" height="50">](https://www.linkedin.com/in/giuliamf)
