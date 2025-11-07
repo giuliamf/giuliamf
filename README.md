@@ -55,16 +55,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=435&height=40&lines=GitHub+Stats)](https://git.io/typing-svg)
 
+<!-- 🌸 Giulia's GitHub Stats -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&rank_icon=github&hide_border=true&title_color=ff8fab&text_color=6d6875&icon_color=ffb6c1&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20&ring_color=fabbe4" 
-    height="190" 
+    src="https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&rank_icon=github&hide_border=true&title_color=ff8fab&text_color=6d6875&icon_color=ffb6c1&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20&ring_color=fabbe4"
+    height="140"
     alt="Giulia's GitHub stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut&hide_border=true&title_color=ff8fab&text_color=6d6875&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20" 
-    height="190" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut&hide_progress=true&hide_border=true&title_color=ff8fab&text_color=6d6875&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20"
+    height="250"
+    style="vertical-align: middle;"
     alt="Top Languages"
   />
 </p>
+
+
+
 
