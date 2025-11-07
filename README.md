@@ -17,6 +17,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=450&height=120&lines=Connect+with+me)](https://git.io/typing-svg)
 
 <p align="center">
+  <a href="mailto:giuliamferreira01@gmail.com">
+    <img src="https://github.com/user-attachments/assets/3eb34b50-dba3-4db3-a50a-cb560f12bae9" height="50" style="border-radius: 12px; margin: 8px;"/>
+  </a>
   <a href="https://www.linkedin.com/in/giuliamf">
     <img src="https://github.com/user-attachments/assets/eeb29b50-6bdc-4719-b120-2b12b0fcc781" alt="LinkedIn" width="50" height="50" style="border-radius: 12px; margin: 8px;"/>
   </a>
