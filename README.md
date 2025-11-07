@@ -18,7 +18,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=450&height=120&lines=Connect+with+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=200&height=40&lines=Connect+with+me)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:giuliamferreira01@gmail.com">
@@ -37,7 +37,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=450&height=120&lines=Languages+%26+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=435&height=40&lines=Languages+%26+Technologies)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/125eef9d-1b58-411b-9cb5-a5bf356d1243" alt="IBM Cloud" width="50" height="50"/>
@@ -53,17 +53,17 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=450&height=120&lines=GitHub+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=435&height=40&lines=GitHub+Stats)](https://git.io/typing-svg)
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&rank_icon=github&hide_border=true&title_color=ff8fab&text_color=6d6875&icon_color=ffb6c1&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20&ring_color=fabbe4" 
-    height="170" 
+    height="190" 
     alt="Giulia's GitHub stats"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut&hide_border=true&title_color=ff8fab&text_color=6d6875&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20" 
-    height="170" 
+    height="190" 
     alt="Top Languages"
   />
 </p>
