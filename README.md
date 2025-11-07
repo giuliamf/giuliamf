@@ -55,9 +55,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=450&height=120&lines=GitHub+Stats)](https://git.io/typing-svg)
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&rank_icon=github&hide_border=true&title_color=ff8fab&text_color=6d6875&icon_color=ffb6c1&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20&ring_color=fabbe4" 
+    height="170" 
+    alt="Giulia's GitHub stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut&hide_border=true&title_color=ff8fab&text_color=6d6875&bg_color=fff0f6,e7d8ff,fff0f6&border_radius=20" 
+    height="170" 
+    alt="Top Languages"
+  />
+</p>
 
-![giuliamf's Stats](https://github-readme-stats.vercel.app/api?username=giuliamf&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
-![giuliamf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giuliamf&theme=graywhite&hide_border=false)
-
-
----
