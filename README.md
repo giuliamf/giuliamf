@@ -1,10 +1,14 @@
 <!-- Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=50&pause=1000&color=F787D1&center=true&vCenter=true&width=450&height=120&lines=Hi+there!+I'm+Giulia." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=50&duration=1&pause=1000&color=F787D1&center=true&vCenter=true&repeat=false&width=450&lines=Hi+there!+I'm+Giulia." alt="Typing SVG" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&duration=1&pause=1000&color=9B5583&center=true&vCenter=true&repeat=false&width=800&lines=There+were+pages+turned+with+the+bridges+burned%2C+everything+you+lose+is+a+step+you+take" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <em>🎓 Computer Science student at the University of Brasília</em><br>
   <em>☁️ Passionate about Data Science, Cloud Computing & Software Development</em><br>
@@ -51,9 +55,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=450&height=120&lines=GitHub+Stats)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut&theme=rose_pine&hide_border=true" height="170" />
-</p>
+
+![giuliamf's Stats](https://github-readme-stats.vercel.app/api?username=giuliamf&theme=graywhite&show_icons=true&hide_border=false&count_private=true)
+![giuliamf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giuliamf&theme=graywhite&hide_border=false)
+
 
 ---
