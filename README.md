@@ -51,9 +51,6 @@
   <img src="https://github.com/user-attachments/assets/aec0c583-0b65-4d24-88f0-4dab08a41fd0"alt="PostgreSQL" height="45"/>
 </p>
 
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=435&height=40&lines=GitHub+Stats)](https://git.io/typing-svg)
 
 
 
