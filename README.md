@@ -51,9 +51,9 @@
   <img src="https://github.com/user-attachments/assets/aec0c583-0b65-4d24-88f0-4dab08a41fd0"alt="PostgreSQL" height="45"/>
 </p>
 
+---
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&theme=buefy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&theme=buefy&rank_icon=github)
 
 
