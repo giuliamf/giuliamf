@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=50&duration=1&pause=1000&color=F787D1&center=true&vCenter=true&repeat=false&width=450&lines=Hi+there!+I'm+Giulia." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Meow+Script&size=50&duration=1&pause=1000&color=F787D1&center=true&vCenter=true&repeat=false&width=450&lines=Hi+there!+I'm+Giulia.✨" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -9,12 +9,38 @@
     <img src="https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&duration=1&pause=1000&color=9B5583&center=true&vCenter=true&repeat=false&width=800&lines=There+were+pages+turned+with+the+bridges+burned%2C+everything+you+lose+is+a+step+you+take" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=giuliamf&color=F787D1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
+
 <p align="center">
   <em>🎓 Computer Science student at the University of Brasília</em><br>
   <em>☁️ Passionate about Data Science, Cloud Computing & Software Development</em><br>
   <em>🌐 Working at IBM Brazil</em><br>
-  <em>🎮 Gamer girl | 🌷 Music lover | 💫 Lifelong learner</em>
+  <em>🎮 Gamer girl | 🌷 Music lover | 💫 Lifelong learner | ✨ Dream chaser</em>
 </p>
+
+---
+
+<div align="center">
+
+### 💖 About Me
+
+```typescript
+const giulia = {
+    pronouns: "she/her",
+    location: "Brasília, Brazil 🇧🇷",
+    currentRole: "IBM Brazil",
+    education: "Computer Science @ UnB",
+    interests: ["Data Science", "Cloud Computing", "AI/ML", "Gaming"],
+    currentlyLearning: ["Advanced Cloud Architecture", "Machine Learning"],
+    funFact: "I debug with music on 🎵",
+    lifePhilosophy: "Everything you lose is a step you take 💫"
+};
+```
+
+</div>
 
 ---
 
@@ -53,7 +79,47 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&theme=buefy&rank_icon=github)
+<div align="center">
 
+### 🌸 What I'm Up To
 
+🔭 Currently working on **Cloud Solutions at IBM**  
+🌱 Learning **Advanced ML & Cloud Architecture**  
+💬 Ask me about **Data Science, Cloud Computing, or my favorite games!**  
+⚡ Fun fact: **I believe every bug is just a feature in disguise** 🐛✨
+
+</div>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=200&height=40&lines=GitHub+Stats)](https://git.io/typing-svg)
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliamf&layout=donut&theme=buefy&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliamf&show_icons=true&theme=buefy&rank_icon=github&hide_border=true&bg_color=00000000)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giuliamf&theme=buefy&hide_border=true&background=00000000&ring=F787D1&fire=F787D1&currStreakLabel=9B5583)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎀 Featured Projects
+
+Coming soon... Stay tuned! 💫
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&text=Thanks%20for%20visiting!%20💖&fontSize=20&fontColor=F787D1&animation=twinkling" />
+</p>
+
+<p align="center">
+  <em>✨ "She believed she could, so she did" ✨</em>
+</p>
