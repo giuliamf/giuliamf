@@ -18,10 +18,12 @@
 
 ---
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delius+Swash+Caps&size=25&duration=1&pause=1000&color=F787D1&vCenter=true&repeat=false&width=200&height=40&lines=About+me)](https://git.io/typing-svg)
+
 <div align="center">
-
-### 💖 About Me
-
+  
 ```typescript
 const giulia = {
     pronouns: "she/her",
